@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a kid with a dream⭐<br>Currently learning Python🐍<br>Fun Fact: I do journaling😄
+<br>Currently learning Python🐍<br>Fun Fact: I do journaling😄
 
 
 # 💻 Tech Stack:
